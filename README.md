@@ -1,0 +1,1 @@
+Add E-Learning page files including HTML, CSS, and JavaScript. This project provides a responsive and interactive E-Learning platform template. Features include a modern user interface, course listings, multimedia content integration, and user authentication. Designed for an enhanced learning experience with intuitive navigation and customizable design elements.
